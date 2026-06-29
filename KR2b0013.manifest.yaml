@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR2b0013/v1
+canonical_location: https://kanripo.org/bkk/KR2b0013/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 通鑑胡注舉正
+  date: '2015-08-24 22:23:53.197882'
+  source:
+    repository: kanripo
+    path: KR2b0013
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2b0013_000.yaml, hash: 'sha256:aa01ca3bed1af3b991bbfb3093275ccdf5a2627b4c0a53faa0682fc65984bf36'}
+  - {seq: 1, filename: KR2b0013_001.yaml, hash: 'sha256:013fa8db17ce04d31b81eba0c21333137ddafbd130515ef80f3882501b1e2881'}
+  - {seq: 2, filename: KR2b0013_002.yaml, hash: 'sha256:253184c11cae0e587dd8fc83f87f1e1dad787647ea896288eb57061d945a82a9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2b0013_000.markers.yaml, hash: 'sha256:519e0adb7b1c3f7b06eb4ea96a43f8c24e32e6570cd752392e3142a76d200c6b'}
+  - {seq: 1, role: markers, filename: assets/KR2b0013_001.markers.yaml, hash: 'sha256:a0cdf9b30867d3ff534f57c4d0728809cfca1aaef5ba7b7f8eee3f29bf4cf823'}
+  - {seq: 2, role: markers, filename: assets/KR2b0013_002.markers.yaml, hash: 'sha256:8d0fcdd97c813c93ae16264d18cf4a554a6e058deab0bf1f55334abc991e2943'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2b0013_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 355
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2b0013_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4199
+  label: 通鑑胡注舉正
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2b0013_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 138
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:26f665ea18508421b1c76e258f8dc1b9a6f5b54fa632eadb6fde1687ce5df940
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

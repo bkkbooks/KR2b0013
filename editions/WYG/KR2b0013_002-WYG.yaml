@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2b0013/WYG/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通鑑胡注舉正跋胡氏音注通鑑其始未詳於自序中按元袁伯長記其父洪之師友作師友淵源録胡氏乃伯長先友之一也稱其客賈相家釋通鑑三十年兵難稿三失乙酉嵗留袁氏熟手抄定注今胡序云乙酉徹編正與袁記語合又序末云書扵梅蠖居盖即袁氏熟舍也表記復云己丑冦作以書藏窖中得免則斯注流𫝊於後者亦幸耳東吴陳景雲
+  hash: sha256:f3a4bb6318096db87875f750a667ee5824d76bac16506e5d9e924f7f5c93b535
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2b0013_WYG_002-1a, image: WYG0312/WYG0312-0390c.png}
+metadata:
+  title: 通鑑胡注舉正
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:23:53.197882'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR2b0013/KR2b0013_002.txt
+hash: sha256:4ff147b2281b3871051288a8b2db58b7f09cb132ee057570e967b145d66be44d
